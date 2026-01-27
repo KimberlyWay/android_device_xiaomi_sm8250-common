@@ -191,13 +191,13 @@ vendor.gatekeeper.disable_spu=true
 # Graphics
 debug.sf.auto_latch_unsignaled=0
 debug.sf.early.app.duration=16666666
-debug.sf.early.sf.duration=15666666
+debug.sf.early.sf.duration=12333333
 debug.sf.earlyGl.app.duration=16666666
-debug.sf.earlyGl.sf.duration=15666666
+debug.sf.earlyGl.sf.duration=12333333
 debug.sf.enable_gl_backpressure=1
 debug.sf.enable_transaction_tracing=false
 debug.sf.late.app.duration=16666666
-debug.sf.late.sf.duration=15666666
+debug.sf.late.sf.duration=12333333
 debug.sf.treat_170m_as_sRGB=1
 debug.sf.use_phase_offsets_as_durations=1
 ro.hardware.egl=adreno
